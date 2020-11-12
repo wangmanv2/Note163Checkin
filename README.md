@@ -8,7 +8,6 @@
 ## 二、添加 Secret
 
 **`Settings`->`Secrets`->`New secret`，添加以下Secret：**
-
 - `Conf`：其值如下：
     ```json
     {
